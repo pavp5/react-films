@@ -1,0 +1,9 @@
+ul {
+  list-style: none;
+}
+
+.card-body-stars {
+  display: flex;
+	flex-direction: row;
+  justify-content: center;
+}
